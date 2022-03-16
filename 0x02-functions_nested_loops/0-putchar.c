@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * * main - Entry point
- * * write a program tha prints Holberton, followed by a new line.
- * * Return: Always (Success)
- * */
+ *main - Entry point
+ *write a program tha prints Holberton, followed by a new line.
+ *Return: Always (Success)
+ **/
 int main(void)
 {
 	char *ch = "_putchar";
